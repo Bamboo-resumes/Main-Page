@@ -1,5 +1,5 @@
 # Bamboo Resumes
-[![bamboologo](https://github.com/Bamboo-resumes/Main-Page/assets/89302526/b7df03c4-891e-46b3-94df-ab1b88a9a3b0)]
+![bamboologo](https://github.com/Bamboo-resumes/Main-Page/assets/89302526/b7df03c4-891e-46b3-94df-ab1b88a9a3b0)
 
 ## Table of Contents
 - [Introduction](#introduction)
